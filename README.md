@@ -1,1 +1,2 @@
-# M1_ParthZala
+# M1_VaccineRegistration_System
+
