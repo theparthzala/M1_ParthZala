@@ -1,0 +1,9 @@
+# ARCHITECTURE
+
+## USE CASE DIAGRAMS
+
+![132359625-59a60ead-ddf0-48d5-a03b-39c03fbb2a1d](https://user-images.githubusercontent.com/101014587/160334283-19a4079e-dd00-4c42-8c7b-f93fb62233bf.jpg)
+
+## FLOW CHART OF VACCINE REGISTRATION SYSTEM
+
+![132567227-09aa32d3-9fd8-46e0-ad41-43367582048a](https://user-images.githubusercontent.com/101014587/160334230-066f9d33-2146-4619-b8a7-f67ef2387983.jpg)
