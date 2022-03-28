@@ -67,3 +67,11 @@ The local server must store the data of around 100 people where the allocated on
 | LR03	| Full list of patients vaccinated must be set as output |	Implemented |
 | LR04	| Remaining and present stock of vaccines must be tracked	| Future |
 | LR05	| Vaccine vials must be tracked for its use within a day	| Future |
+
+## Best Methods To Be Followed
+
+* Used functions to decrease dependency on main function
+* Used structures and arrays to accept the inputs from user and store the values which helped in creating easy design of Employee management system.
+* Printf statements have been placed only wherever necessary to avoid confusions
+* Created header file so that the fuctions can be used else where ever required without any difficulty
+* Unit testing is done to avoid any computational errors.
