@@ -28,5 +28,11 @@ The local server must store the data of around 100 people where the allocated on
 
 ![vrs_code Inspector](https://user-images.githubusercontent.com/101014587/160985485-1415dbf5-f24b-42c6-8070-ee557b633dbb.png)
 
+## Badges
 
+[![Valgrind](https://github.com/theparthzala/M1_VaccineRegistration_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/theparthzala/M1_VaccineRegistration_System/actions/workflows/Valgrind.yml)
+
+[![Build Linux](https://github.com/theparthzala/M1_VaccineRegistration_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/theparthzala/M1_VaccineRegistration_System/actions/workflows/Linux.yml)
+
+[![CI](https://github.com/theparthzala/M1_VaccineRegistration_System/actions/workflows/C-cpp.yml/badge.svg)](https://github.com/theparthzala/M1_VaccineRegistration_System/actions/workflows/C-cpp.yml)
 
